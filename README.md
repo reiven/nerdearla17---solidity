@@ -12,9 +12,6 @@ Solidity contracts de ejemplo para [nerdear.la 2017](https://nerdear.la)
 
 [truffle framework](http://truffleframework.com/)
 
+[testrpc](https://github.com/ethereumjs/testrpc)
+
 [openzeppelin](https://github.com/OpenZeppelin/zeppelin-solidity)
-
-## Contacto
-[twtr](https://twitter.com/ravenio)
-
-[lnkd](www.linkedin.com/in/cardosof)
