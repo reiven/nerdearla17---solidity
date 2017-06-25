@@ -39,7 +39,7 @@ Finalmente en la parte de accounts borrar la cuenta inicial con 0 Ether
 *nerdearla.v2*  : El token ahora puede cambiar de dueño y podemos emitir mas NERDS (minting)
 
 
-## Resources
+## Links interesantes sobre Solidity, Ethereum y Criptomonedas en general
 [solidity](https://solidity.readthedocs.io/en/latest/index.html)
 
 [truffle framework](http://truffleframework.com/)
@@ -47,3 +47,11 @@ Finalmente en la parte de accounts borrar la cuenta inicial con 0 Ether
 [testrpc](https://github.com/ethereumjs/testrpc)
 
 [openzeppelin](https://github.com/OpenZeppelin/zeppelin-solidity)
+
+[rootstock](http://rsk.co/)
+
+[maecenas](http://maecenas.co/)
+
+[coindesk](http://www.coindesk.com/)
+
+[brave new coin](https://bravenewcoin.com)
