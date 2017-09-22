@@ -1,7 +1,7 @@
 version: '2'
 services:
  parity-local:
-   image: ethcore/parity:v1.6.6
+   image: parity/parity:v1.7.2
    working_dir: /parity/
    command: --jsonrpc-interface all --jsonrpc-hosts all --jsonrpc-cors * --dapps-interface 0.0.0.0 --dapps-hosts all --ui-interface 0.0.0.0 --ui-no-validation --chain dev
    ports:
