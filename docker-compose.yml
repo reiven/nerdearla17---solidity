@@ -3,10 +3,10 @@ services:
  parity-local:
    image: parity/parity:v1.7.2
    working_dir: /parity/
-   command: --jsonrpc-interface all --jsonrpc-hosts all --jsonrpc-cors * --dapps-interface 0.0.0.0 --dapps-hosts all --ui-interface 0.0.0.0 --ui-no-validation --chain dev
+   command: --jsonrpc-interface all --jsonrpc-cors * --ui-interface all --ws-interface all --ws-origins all --chain dev
    ports:
      - 8545:8545
-     - 8080:8080
+     - 8546:8546
      - 8180:8180
    volumes:
      - ./paritydata:/root/.local
